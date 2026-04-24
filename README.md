@@ -1,1 +1,3 @@
 # day-5
+
+Hello everyone! so today and yesterday i have been coding a presentation with html, css and js and fonts, i dont need backend because nobody gonna hack that... so i made many cool features, a cool animation and more, but i also generated code from AI.. because i didnt know how to make the things, but im not an AI kid, i paste the code, but then i understand it, because if i just paste, then it can brake. I will tell you which grade i will get, i am doing this with a classmate, but he just do the powerpoint, i make the beginning in a site. See yall in some weeks, because i still got like a month for the presentation!
